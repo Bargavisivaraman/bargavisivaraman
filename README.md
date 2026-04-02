@@ -1,6 +1,6 @@
 About Me
 I'm a Computer Science student at California State University, Northridge building scalable, production-ready software with a research edge.
-As an ARCS Research Fellow powered by NASA & JPL, I architect end-to-end ML pipelines for the Astro-Cultivator project — processing hyperspectral imagery, RealSense depth data, and multi-sensor datasets to classify early plant stress (drought, discoloration, wilting) using AI-driven systems.
+As an ARCS Research Fellow powered by NASA & JPL, I architect end-to-end ML pipelines for the Astro-Cultivator project processing hyperspectral imagery, RealSense depth data, and multi-sensor datasets to classify early plant stress (drought, discoloration, wilting) using AI-driven systems.
 On the engineering side, I design and ship full-stack applications with clean architecture, RESTful APIs, and responsive frontends — translating complex requirements into maintainable, impactful code.
 
 What I'm Working On
