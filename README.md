@@ -10,7 +10,6 @@ What I'm Working On
 🛠 Technical Ops Intern @ CSUN AS — Data validation, DRDP reporting, and streamlining compliance workflows
 📚 B.S. Computer Science, CSUN — Graduating December 2026
 
-Tech Stack:
 ## Tech Stack
 
 **Languages**
@@ -76,7 +75,6 @@ Database Integration and Management
 HTML, CSS, and Javascript for Web Developers
 Introduction to Agent Skills
 Claude 101
-
 
 Let's Connect
 I'm actively seeking SWE, Full-Stack, and ML internships and new grad roles where I can contribute to production systems and collaborate with strong engineering teams.
