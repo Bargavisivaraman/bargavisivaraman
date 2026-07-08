@@ -7,10 +7,12 @@
 <!-- ============================= 1. HEADER ============================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6D28D9,100:8B5CF6&height=200&section=header&text=Bargavi%20Sivaraman&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CS%20Student%20%C2%B7%20ARCS%20Research%20Fellow%20%C2%B7%20Full-Stack%20%26%20ML&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+# Bargavi Sivaraman
+
+### CS Student · ARCS Research Fellow · Full-Stack &amp; ML Engineer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=CS+Student+%40+CSUN+%C2%B7+ARCS+Research+Fellow;NASA+%2F+JPL+Astro-Cultivator+ML+pipelines;Full-Stack+Engineer+%C2%B7+Java+%C2%B7+Python+%C2%B7+TypeScript;Building+production+apps+with+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=CS+Student+%40+CSUN+%C2%B7+ARCS+Research+Fellow;NASA+%2F+JPL+Astro-Cultivator+ML+pipelines;Full-Stack+Engineer+%C2%B7+Java+%C2%B7+Python+%C2%B7+TypeScript;Building+production+apps+with+LLMs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -327,7 +329,5 @@ contribute to production systems and collaborate with strong engineering teams.
 <div align="center">
 
 <i>Build software that is correct, secure, and shipped.</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4F46E5&height=120&section=footer" alt="footer" />
 
 </div>
