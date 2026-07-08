@@ -265,34 +265,7 @@ AI-generated, personalized travel itineraries with saved trips and auth.
   ---
 -->
 
-<!-- ============================= 10. GITHUB ANALYTICS ============================= -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bargavisivaraman&show_icons=true&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=Bargavisivaraman&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="streak" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bargavisivaraman&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
-
-</div>
-
----
-
-<!-- ============================= 11. GITHUB TROPHIES ============================= -->
-## 🎖️ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bargavisivaraman&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-
-</div>
-
----
-
-<!-- ============================= 12. CONTRIBUTION ACTIVITY ============================= -->
+<!-- ============================= 10. CONTRIBUTION ACTIVITY ============================= -->
 ## 📈 Contribution Activity
 
 <div align="center">
